@@ -1,0 +1,17 @@
+img{
+    height:250px;
+    width: 250px;
+    margin: 1cm;
+    transition-duration: 3s;
+    animation-name: RAJKUMAR;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes RAJKUMAR{
+    100%{
+        height:30px;
+        width:30px;
+        float:right;
+    }
+}

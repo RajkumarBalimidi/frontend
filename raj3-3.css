@@ -1,0 +1,28 @@
+div{
+    height:250px;
+    width:250px;
+    margin:10cm;
+    background-color: blue;
+    transition-duration: 2s;
+}
+div:hover{
+    transform: rotate(180deg);
+}
+img{
+    height:250px;
+    width:250px;
+    margin:10cm;
+    transition-duration: 2s;
+}
+img:hover{
+    transform: rotate(180deg);
+}
+.name{
+   height:200px;
+   width:200px;
+   margin:5cm;
+   transition-duration: 2s; 
+}
+.name:hover{
+    transform: translate(20cm);
+}

@@ -1,0 +1,23 @@
+body{
+    
+    background-image: url(https://i.pinimg.com/originals/ee/50/de/ee50dec983d90280a90a40afbe5be29d.jpg);
+    background-size: cover;
+    margin-left:8cm;
+}
+form{
+    background-color: aqua;
+    margin-right: 1cm;
+    border-style:double;
+    width: 9cm;
+    padding:5cm;
+    height:13cm;
+    text-align:left(50cm);
+}
+h1{
+    color:rgb(0, 17, 255);
+}
+#name{
+
+    margin-left: 12cm;
+
+}

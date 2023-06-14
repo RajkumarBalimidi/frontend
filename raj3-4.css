@@ -1,0 +1,62 @@
+div{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    background-color: orangered;
+    transition-duration: 3s;
+}
+div:hover{
+    transform: translate(10cm);
+}
+
+.img1{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    transition-duration: 3s;
+}
+.img1:hover{
+    transform:scale(5);
+}
+
+.img2{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    transition-duration: 3s;
+}
+.img2:hover{
+    transform:rotatex(180deg);
+}
+
+.img3{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    transition-duration: 3s;
+}
+.img3:hover{
+    transform:translate(12cm);
+}
+
+.img4{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    transition-duration: 3s;
+}
+.img4:hover{
+    transform:rotateY(180deg);
+}
+
+.img5{
+    height:200px;
+    width:200px;
+    margin:15cm;
+    transition-duration: 3s;
+}
+.img5:hover{
+    transform:rotate(180deg);
+}
+
+
